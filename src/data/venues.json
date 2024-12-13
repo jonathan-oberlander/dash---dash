@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Community Hall",
+    "id": "community_hall",
+    "lat": 51.8772815,
+    "lon": -0.4140016
+  },
+  {
+    "name": "Youth Club",
+    "id": "youth_club",
+    "lat": 51.9083239,
+    "lon": -0.4472918
+  },
+  {
+    "name": "Leisure Centre",
+    "id": "leisure_centre",
+    "lat": 51.8820554,
+    "lon": -0.4373342
+  }
+]
